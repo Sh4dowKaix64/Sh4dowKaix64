@@ -1,4 +1,4 @@
-<img align="left" src = "https://www.niit.com/india/sites/default/files/2021-05/Game-Development-01.jpg">
+<img align="center" src = "https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg">
 
 <h1 align="center">Hi 👋, I'm ShadowKai_x64</h1>
 <h3 align="center">A passionate Game developer</h3>
