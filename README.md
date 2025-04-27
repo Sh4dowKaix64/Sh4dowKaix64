@@ -1,17 +1,14 @@
-<img align="center" src = "https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg">
+<img align="center" src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" width="100%">
 
 <h1 align="center">Hi 👋, I'm ShadowKai_x64</h1>
-<h3 align="center">A passionate Game developer</h3>
+<h3 align="center">A passionate Game Developer</h3>
 
 <p align="left">
     <a href="https://twitter.com/shadowkai_x64" target="blank"><img src="https://img.shields.io/twitter/follow/shadowkai_x64?logo=twitter&style=for-the-badge" alt="shadowkai_x64" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Sh4dowKaix64&label=Profile%20views&color=0e75b6&style=flat" alt="Sh4dowKaix64" />
 </p>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kaixavier-x64&label=Profile%20views&color=0e75b6&style=flat" alt="kaixavier-x64" />
-</p>
-
-```md
+```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -33,29 +30,48 @@
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
-89
 
--   🔭 I’m currently working on **2D Free Roaming Game**
+## 🎮 About Me
+- 🔭 I'm currently working on **2D Free Roaming Game**
+- 🌱 I'm learning **Game Development** and **Game Design Principles**
+- 💡 Passionate about creating immersive gaming experiences and interactive worlds
+- 🕹️ Interested in both indie game development and AAA production techniques
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack & Skills
+- **Game Engines:** Unity, Unreal Engine, Godot
+- **Languages:** C#, C++, Python, JavaScript
+- **Graphics:** Pixel Art, 3D Modeling, Shader Programming
+- **Tools:** Blender, Aseprite, Git, Visual Studio
+
+## 🚀 Projects
+- 2D Free Roaming Game (Current Project)
+- More exciting game development projects coming soon!
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh4dowKaix64&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4dowKaix64&layout=compact&theme=dark" />
+</div>
+
+## 🌐 Connect with me
 <p align="left">
-<a href="https://twitter.com/shadowkai_x64" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadowkai_x64" height="30" width="40" />
-</a>
+  <a href="https://twitter.com/shadowkai_x64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadowkai_x64" height="30" width="40" /></a>
+  <!-- Add more social links as needed -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🎯 Goals for 2025
+- Complete and release my 2D Free Roaming Game
+- Contribute to open-source game development tools
+- Expand my knowledge of game optimization techniques
+- Build a community around my projects
 
-<p align="center">
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaixavier-x64&show_icons=true&locale=en&layout=compact" alt="kaixavier-x64" />
-</p>
+⚡ Fun fact: When I'm not coding games, I enjoy speedrunning classic titles and experimenting with game modification!
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaixavier-x64&show_icons=true&locale=en" alt="kaixavier-x64" />
-</p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaixavier-x64&" alt="kaixavier-x64" /></p>
+<div align="center">
 
-</p>
+### Thanks for visiting my profile! Game On! 🎮
+
+</div>
